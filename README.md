@@ -21,11 +21,10 @@
 
 - ⚡ Fun fact **Calle me as Chandu**
   
-
 ---
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chandula buddhinee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandula buddhinee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandula-buddhinee-45a2642a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandula buddhinee" height="30" width="40" /></a>
 </p>
 
 ---
